@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "test1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BYC318/Test1.git",
+      "state" : {
+        "revision" : "50dd08a649ac240cc1265b37ebe71a174fbf0409",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
